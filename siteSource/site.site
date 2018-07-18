@@ -1,0 +1,15 @@
+{
+    "mainTitle": "Tolkachov Sergiy",
+    "title": "Personal Page",
+	"titlesDelimiter": ": ",
+    "enabledFavicon": true,
+    "logo": "/favicon.png",
+    "menu" : {
+        "items": [
+		    {
+			    "href" : "/",
+				"label" : "^^"
+			}	
+		]
+    }
+}
