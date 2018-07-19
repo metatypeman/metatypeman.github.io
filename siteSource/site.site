@@ -7,8 +7,8 @@
     "menu" : {
         "items": [
 		    {
-			    "href" : "/",
-				"label" : "^^"
+			    "href" : "/articles/index.html",
+				"label" : "My articles"
 			}	
 		]
     }
