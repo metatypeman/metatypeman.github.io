@@ -1,3 +1,4 @@
+Sitemap: https://metatypeman.github.io/sitemap.xml
 User-agent: *
 Disallow: /siteSource/
 Disallow: /assets/
