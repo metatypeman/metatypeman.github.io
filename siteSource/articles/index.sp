@@ -1,4 +1,5 @@
 {
-    "specialProcessing" : "index_of_articles",
+    "useMarkdown": true,
+    "title" : "My articles",
 	"description" : ""
 }

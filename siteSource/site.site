@@ -9,7 +9,11 @@
 		    {
 			    "href" : "/articles/index.html",
 				"label" : "My articles"
-			}	
+			},
+            {
+			    "href" : "/index.html",
+				"label" : "Contact me"
+            }			
 		]
     }
 }
