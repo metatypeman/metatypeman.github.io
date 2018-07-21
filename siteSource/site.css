@@ -24,6 +24,12 @@ hr {
 	margin-bottom: 3px;
 }
 
-.bread-crumb-nav{
+.bread-crumb-nav {
 	font-size: 11px;
+}
+
+.main-menu-link {
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
 }
