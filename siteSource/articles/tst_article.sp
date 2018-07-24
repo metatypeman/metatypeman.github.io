@@ -1,5 +1,11 @@
 {
     "useMarkdown": true,
     "title": "Tst article",
-	"description" : ""
+	"isReady": true,
+	"microdata":{
+	    "title": "",
+		"imageUrl": "",
+		"imageAlt" : "",
+	    "description" : ""
+	}
 }
