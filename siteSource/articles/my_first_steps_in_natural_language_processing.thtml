@@ -312,19 +312,16 @@ As a result of the work I have a basis which can be expanded in the future:
 </ul>
 
 <p>
-
+Another important direction: applying conceptual graphs in a game logic for driving character using natural language.
 </p>
 
 <p>
-
+Ahead I have a lot of interesting work!
 </p>
 
-<p>
+<h2>References</h2>
 
-</p>
-
-<p>
-
-</p>
-
-<h2></h2>
+<ol>
+ <li><a href="https://www.amazon.com/Artificial-Intelligence-Structures-Strategies-Complex/dp/0321545893">George F. Luger Artificial Intelligence: Structures and Strategies for Complex Problem Solving (6th Edition)</a></li>
+ <li><a href="http://www.jfsowa.com/cg/cg_hbook.pdf">John F. Sowa Conceptual Graphs</a></li>
+</ol>
