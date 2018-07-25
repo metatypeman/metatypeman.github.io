@@ -1,25 +1,3 @@
-﻿<!DOCTYPE html>
-<html lang='en' xmlns='http://www.w3.org/1999/xhtml'>
-<head>
-<meta charset='utf-8' />
-<meta property='og:type' content='article' />
-<meta property='og:title' content='My first steps in natural language processing: converting a sentence to a conceptual graph' />
-<meta property='og:image' content='https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_I_know_the_dog.jpg' />
-<meta property='og:url' content='https://metatypeman.github.io\articles\my_first_steps_in_natural_language_processing.html' />
-<title>Tolkachov Sergiy: My first steps in natural language processing: converting a sentence to a conceptual graph</title>
-<link rel='icon' href='https://metatypeman.github.io/favicon.png' type='image/png'>
-<link rel='stylesheet' href='https://metatypeman.github.io/site.css'>
-</head>
-<body>
-<header>
-<p><a href = 'https://metatypeman.github.io'><img src='https://metatypeman.github.io/favicon.png' style='margin-top: -12px;'></a>&nbsp;<span style='font-size: 30px; font-weight: bold;'>Personal Page of Tolkachov Sergiy</span></p>
-</header>
-<nav>
-<a href ='https://metatypeman.github.io/articles/index.html' class='main-menu-link'>My articles</a>&nbsp;<span style='color: #e2e2e2;'>|<span>&nbsp;<a href ='https://metatypeman.github.io/index.html' class='main-menu-link'>Contact me</a></nav>
-<hr style='border-bottom-color: #e2e2e2;'>
-<nav class='bread-crumb-nav'>
-<a href = 'https://metatypeman.github.io\index.html' style='color: #e2e2e2;'>Main</a>&nbsp;/&nbsp;<a href = 'https://metatypeman.github.io\articles\index.html' style='color: #e2e2e2;'>My articles</a>&nbsp;/&nbsp;<a style='color: #e2e2e2;'>My first steps in natural language processing: converting a sentence to a conceptual graph</a></nav>
-<article>
 <h1>My first steps in natural language processing: converting a sentence to a conceptual graph</h1>
 
 <h2>Abstract</h2>
@@ -208,13 +186,3 @@ Also It contains a basic form of the word. Each word can be in relation to diffe
 <p>
 
 </p>
-
-<p>&nbsp;</p>
-</article>
-<footer>
-This page was last modified on 25 July 2018</br>
-&copy;&nbsp; Tolkachov Sergiy(<a href='https://github.com/metatypeman'>metatypeman</a>) 2018</br>
-The text is available under the <a href='https://creativecommons.org/licenses/by-sa/3.0/'>Creative Commons Attribution-ShareAlike BY SA 3.0 Unported License</a>
-</footer>
-</body>
-</html>
