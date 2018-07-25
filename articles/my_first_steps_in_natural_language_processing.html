@@ -93,7 +93,7 @@ The sentence "I know the dog" should be transformed to a tree as in figure 1.
 </p>
 
 <figure>
-<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_type_hierarchy.jpg" alt="Figure 1. Phrase tree for sentence &quot;I know the dog&quot;">
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_my_phrase_tree_1.jpg" alt="Figure 1. Phrase tree for sentence &quot;I know the dog&quot;">
 <figcaption>Figure 1. Phrase tree for sentence &quot;I know the dog&quot;</figcaption>
 </figure>
 
@@ -161,6 +161,65 @@ This dictionary contains basic grammatical information about the word.
 Also It contains a basic form of the word. Each word can be in relation to different parts of speech or to the same part of speech, but with a different grammatical meaning.
 </p>
 
+<figure>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_my_simple_dictionary.jpg" alt="Figure 2. Dictionary for the syntactic parser">
+<figcaption>Figure 2. Dictionary for the syntactic parser</figcaption>
+</figure>
+
+<p>
+So, there are many variations of using the word in the construction of the phrase tree. 
+In finite stages of parsing we can choose correct variant easily. 
+But in first stages it will difficult. 
+And the correct version will be known only after the successful completion of the parsing.
+</p>
+
+<p>
+Therefore, my algorithm tries to make many possible variants of constructing phrase tree of sentence. 
+There will be a lot of such variants at the beginning of the parsing. 
+The amount of possible variants will be significantly reduced by the end of the analysis.
+</p>
+
+<p>
+The  multivariance code is not very convenient for creating. 
+It will be using a lot of memory. Performance of the code can also suffer. 
+But it will allow to save many efforts by removing predictions from the code. 
+Execution will have visited possible variants and success way will be as the result.
+</p>
+
+<p>
+Now the dictionary consists of four words and is defined into the code. 
+This is a necessary and sufficient minimum for the syntactic parsing of the phrase "I know the dog".
+</p>
+
+<p>
+In the future, the dictionary will be expanded to the required number of words. 
+The minimum English vocabulary for the non native speaking tourist is about 1000 words. 
+In my opinion it is quite implementable volume of work. 
+Also I plan to make the dictionary stored in a file and extensible.
+</p>
+
+<p>
+There are not very much ways of parsing verb phrases. 
+This gives me a hope of building a parser that will be more suitable for practical using.
+</p>
+
+<p>
+A ready-made parser can also be used in the future. 
+It would remove the limitation on the number of words and grammatical constructions.
+</p>
+
+<p>
+The syntactic parser returns a list of phrase tree whis represent the processed text. 
+Firstly, parsed text can contain two or more sentence. 
+Secondly, a sentence can contain parts which can be interpreted as separate sentences. 
+For example: parts of compound sentences.
+</p>
+
+<figure>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_my_phrase_tree_2.jpg" alt="Figure 3. The structure of the phrase tree for the sentence &quot;I know the dog&quot;">
+<figcaption>Figure 3. The structure of the phrase tree for the sentence &quot;I know the dog&quot;</figcaption>
+</figure>
+
 <p>
 
 </p>
@@ -193,21 +252,15 @@ Also It contains a basic form of the word. Each word can be in relation to diffe
 
 </p>
 
-<p>
+<figure>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_type_hierarchy.jpg" alt="">
+<figcaption></figcaption>
+</figure>
 
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
+<figure>
+<img src="https://metatypeman.github.io/articles/" alt="">
+<figcaption></figcaption>
+</figure>
 
 <p>&nbsp;</p>
 </article>
