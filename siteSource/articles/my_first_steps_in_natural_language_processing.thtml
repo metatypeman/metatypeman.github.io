@@ -249,12 +249,28 @@ The relation "experiencer" corresponds to the inverse relation "state". It also 
 </figure>
 
 <p>
-
+The concept "dog" is defined as "object" in a phrase tree. 
+Also, "dog" is an "entity". "state" and "entity" are related by the relation "object" (Figure 7).
 </p>
+
+<figure>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_cg_fragment_3.jpg" alt="Figure 7. Fragment of the final conceptual graph.">
+<figcaption>Figure 7. Fragment of the final conceptual graph.</figcaption>
+</figure>
 
 <p>
-
+In addition, "dog" has a determiner "the". 
+This means that the description allowing to identify this instance of "dog" was encountered earlier in the text. 
+This knowledge will help me in the processing of this conceptual graph. 
+Therefore, "dog" and "the" are related by the relation "determiner" (Figure 8). 
+The relation "determiner" is marked by the relation "__entity_condition". 
+This relationship will be helpful during converting a conceptual graph to a predicate calculus record.
 </p>
+
+<figure>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_cg_fragment_4.jpg" alt="Figure 8. Fragment of the final conceptual graph.">
+<figcaption>Figure 8. Fragment of the final conceptual graph.</figcaption>
+</figure>
 
 <p>
 
