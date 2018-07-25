@@ -273,48 +273,58 @@ This relationship will be helpful during converting a conceptual graph to a pred
 </figure>
 
 <p>
-
+Aspect and tense are written into the resulting conceptual graph as relations which are relating directly to this graph. I do not like this and I would have written the aspect and tenses as the properties of the graph. I should limit myself to the elements described by John Sowa - concepts and relationships. Otherwise my result will not be a conceptual graph of John Sowa.
 </p>
 
 <p>
-
+Tense is indicated using the relation "__tense". Aspect is indicated using the relation “__aspect”. These relationships can be helpful for building temporal logics.
 </p>
 
 <p>
-
+I will using voice for making a conceptual graph. Therefore, the graphs for the active voice and the corresponding expression in the passive voice must be identical. Now the voice is indicated by the relationship "__voice". Maybe I will be using it in the future.
 </p>
 
 <p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
+As a result, my algorithm made such conceptual graph (Figure 9).
 </p>
 
 <figure>
-<img src="https://metatypeman.github.io/articles/" alt="">
-<figcaption></figcaption>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_I_know_the_dog.jpg" alt="Figure 9. The result of parsing the phrase "I know the dog": the final conceptual graph.">
+<figcaption>Figure 9. The result of parsing the phrase "I know the dog": the final conceptual graph.</figcaption>
 </figure>
+
+<h2>Results and plans</h2>
+
+<p>
+So, I have completed my task: I have made a conceptual graph from the phrase "I know the dog".
+</p>
+
+<p>
+As a result of the work I have a basis which can be expanded in the future:
+</p>
+
+<ul>
+<li>increase the size of the dictionary;</li>
+ <li>make as more convenient working with the dictionary;</li>
+ <li>add other types of English phrases;</li>
+  <li>add processing of prepositional, adjective, numeral phrases;</li>
+ <li>and much more.</li>
+</ul>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
 
 <h2></h2>
