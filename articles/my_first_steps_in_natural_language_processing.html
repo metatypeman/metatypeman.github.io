@@ -220,47 +220,110 @@ For example: parts of compound sentences.
 <figcaption>Figure 3. The structure of the phrase tree for the sentence &quot;I know the dog&quot;</figcaption>
 </figure>
 
-<p>
+<h2>Making a conceptual graph</h2>
 
+<p>
+I launch a semantic analyzer for each phrase tree. 
+The semantic analyzer will have visited all nodes of processing phrase tree.
 </p>
 
 <p>
-
+During processing the words "I", "know", "dog" are interpreted as concepts. 
+For these concepts, logical classes are extracted from the dictionary. 
+The logical classes define the meaning of the words in human communication. 
+I can not extract the meaning from grammatical information. 
+These logical classes help me to clarify what meaning does have the concept in the conceptual graph.
 </p>
 
 <p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
-
-<p>
-
+Also, these logical classes can be subclasses of other logical classes. 
+For writing less volume of code, I have specified for the word the logical class that directly relates to it. 
+Logical superclasses are computed by information about inheritance relations. Currently the relations are defined in source code. 
+I took them from an example in the book "Artificial Intelligence: Structures and Strategies for Complex Problem Solving" by George F. Luger. 
+The resulting inheritance diagram is shown in Figure 4.
 </p>
 
 <figure>
-<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_type_hierarchy.jpg" alt="">
-<figcaption></figcaption>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_type_hierarchy.jpg" alt="Figure 4. Inheritance diagram of logical classes.">
+<figcaption>Figure 4. Inheritance diagram of logical classes.</figcaption>
 </figure>
+
+<p>
+So the concept "know" is correlated with the logical class "state". 
+The concept "I" is defined as "subject" in the phrase tree. 
+Also, the "I" correlates with the logical class "animate". 
+In the example from the book, the concepts "animate" and "subject" correlate with "state" using the relation "experiencer" (holder of state) (Figure 5). 
+It determines the relationship between the mental state and its holder.
+</p>
+
+<figure>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_cg_fragment_1.jpg" alt="Figure 5. Fragment of the final conceptual graph.">
+<figcaption>Figure 5. Fragment of the final conceptual graph.</figcaption>
+</figure>
+
+<p>
+The relation "experiencer" corresponds to the inverse relation "state". It also connects the concepts "I" and "know", but in the opposite direction (Figure. 6). 
+</p>
+
+<figure>
+<img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_cg_fragment_2.jpg" alt="Figure 6. Fragment of the final conceptual graph.">
+<figcaption>Figure 6. Fragment of the final conceptual graph.</figcaption>
+</figure>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
 
 <figure>
 <img src="https://metatypeman.github.io/articles/" alt="">
 <figcaption></figcaption>
 </figure>
+
+<h2></h2>
 
 <p>&nbsp;</p>
 </article>
