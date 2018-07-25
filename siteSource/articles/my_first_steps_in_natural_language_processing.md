@@ -47,4 +47,4 @@ This is only one phrase which contains only four words.
 Firstly, I must make a phrase tree of target sentence. 
 The sentence "I know the dog" should be transformed to a tree as in figure 1.
 
-![Figure 1. Phrase tree for sentence &quot;I know the dog&quot;](https://metatypeman.github.io/articles/37814308_2068182069919818_6317889088460423168_n.jpg "Figure 1. Phrase tree for sentence &quot;I know the dog&quot;")
+![Figure 1. Phrase tree for sentence &quot;I know the dog&quot;](https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_type_hierarchy.jpg "Figure 1. Phrase tree for sentence &quot;I know the dog&quot;")
