@@ -1,5 +1,32 @@
 <div>
+I am in social networks:
+</div>
+
+<div style='display: flex; font-size: 44px; justify-content: space-between; width: 300px;'>
+    <div>
+	    <i class="fab fa-facebook-square"></i>
+	</div>
+	<div>
+	    <i class="fab fa-github"></i>
+	</div>
+	<div style='color: gray;'>
+	    <i class="fab fa-linkedin"></i>
+	</div>
+	<div style='color: gray;'>
+	    <i class="fab fa-google-plus-square"></i> 
+	</div>
+	<div style='color: gray;'>
+	    <i class="fab fa-twitter-square"></i>
+	</div>
+</div>
+
+<div style='display: flex;'>
+<div>
 <img src="https://metatypeman.github.io/articles/my_first_steps_in_natural_language_processing_I_know_the_dog_small_square.jpg">
+</div>
+<div>
+U
+</div>
 </div>
 
 <div>
