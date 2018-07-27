@@ -1,26 +1,4 @@
-<div style='font-size: 2rem; margin-bottom: 20px;'>
-I am in social networks:
-</div>
-
-<div style='display: flex; font-size: 44px; justify-content: space-between; width: 270px;'>
-    <div>
-	    <i class="fab fa-facebook-square"></i>
-	</div>
-	<div>
-	    <i class="fab fa-github"></i>
-	</div>
-	<div style='color: gray;'>
-	    <i class="fab fa-linkedin"></i>
-	</div>
-	<div style='color: gray;'>
-	    <i class="fab fa-google-plus-square"></i> 
-	</div>
-	<div style='color: gray;'>
-	    <i class="fab fa-twitter-square"></i>
-	</div>
-</div>
-
-<h2>Recent articles</h2>
+<h1>My articles</h1>
 
 <div class='article-block-in-dir'>
 <div>

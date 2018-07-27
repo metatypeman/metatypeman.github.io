@@ -1,5 +1,4 @@
 {
-    "useMarkdown": true,
     "title": "Tst article",
 	"isReady": true,
 	"microdata":{
