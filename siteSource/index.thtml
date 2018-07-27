@@ -4,19 +4,29 @@ I am in social networks:
 
 <div style='display: flex; font-size: 44px; justify-content: space-between; width: 270px;'>
     <div>
-	    <i class="fab fa-facebook-square"></i>
+	    <a class="social-network-href" href="https://www.facebook.com/metatypeman">
+		    <i class="fab fa-facebook-square"></i>
+		</a>
 	</div>
 	<div>
-	    <i class="fab fa-github"></i>
+	    <a class="social-network-href" href="https://github.com/metatypeman">
+		    <i class="fab fa-github"></i>
+		</a>    
 	</div>
 	<div style='color: gray;'>
-	    <i class="fab fa-linkedin"></i>
+	    <a class="social-network-href" href="https://www.linkedin.com/in/sergiy-tolkachov-0b2255bb/">
+		    <i class="fab fa-linkedin"></i>
+		</a>
 	</div>
 	<div style='color: gray;'>
-	    <i class="fab fa-google-plus-square"></i> 
+	    <a class="social-network-href" href="https://plus.google.com/u/0/101178625053983434224">
+		    <i class="fab fa-google-plus-square"></i>
+		</a>  
 	</div>
 	<div style='color: gray;'>
-	    <i class="fab fa-twitter-square"></i>
+	    <a class="social-network-href" href="https://twitter.com/metatypeman">
+		    <i class="fab fa-twitter-square"></i>
+		</a>
 	</div>
 </div>
 
