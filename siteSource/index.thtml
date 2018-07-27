@@ -13,18 +13,18 @@ I am in social networks:
 		    <i class="fab fa-github"></i>
 		</a>    
 	</div>
-	<div style='color: gray;'>
-	    <a class="social-network-href" href="https://www.linkedin.com/in/sergiy-tolkachov-0b2255bb/">
+	<div>
+	    <a class="social-network-href" style='color: gray;' href="https://www.linkedin.com/in/sergiy-tolkachov-0b2255bb/">
 		    <i class="fab fa-linkedin"></i>
 		</a>
 	</div>
-	<div style='color: gray;'>
-	    <a class="social-network-href" href="https://plus.google.com/u/0/101178625053983434224">
+	<div>
+	    <a class="social-network-href" style='color: gray;' href="https://plus.google.com/u/0/101178625053983434224">
 		    <i class="fab fa-google-plus-square"></i>
 		</a>  
 	</div>
-	<div style='color: gray;'>
-	    <a class="social-network-href" href="https://twitter.com/metatypeman">
+	<div>
+	    <a class="social-network-href" style='color: gray;' href="https://twitter.com/metatypeman">
 		    <i class="fab fa-twitter-square"></i>
 		</a>
 	</div>
