@@ -14,17 +14,17 @@ I am in social networks:
 		</a>    
 	</div>
 	<div>
-	    <a class="social-network-href" style='color: gray;' href="https://www.linkedin.com/in/sergiy-tolkachov-0b2255bb/">
+	    <a class="social-network-href" style='color: gray;' title="I use this account rarely" href="https://www.linkedin.com/in/sergiy-tolkachov-0b2255bb/">
 		    <i class="fab fa-linkedin"></i>
 		</a>
 	</div>
 	<div>
-	    <a class="social-network-href" style='color: gray;' href="https://plus.google.com/u/0/101178625053983434224">
+	    <a class="social-network-href" style='color: gray;' title="I use this account rarely" href="https://plus.google.com/u/0/101178625053983434224">
 		    <i class="fab fa-google-plus-square"></i>
 		</a>  
 	</div>
 	<div>
-	    <a class="social-network-href" style='color: gray;' href="https://twitter.com/metatypeman">
+	    <a class="social-network-href" style='color: gray;' title="I use this account rarely" href="https://twitter.com/metatypeman">
 		    <i class="fab fa-twitter-square"></i>
 		</a>
 	</div>
